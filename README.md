@@ -65,7 +65,3 @@ When you run the application, you'll see a menu with the following options:
 ### Exiting
 
 Select option `3` to exit the program.
-
-## Release
-
-Coming soon...

@@ -98,7 +98,6 @@ def main():
             view_students()
         elif choice == "3":
             print("Exiting program.")
-            break
         else:
             print("Invalid choice. Please try again.")
 
