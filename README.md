@@ -62,6 +62,6 @@ When you run the application, you'll see a menu with the following options:
    ID: 101, Name: Rahul, Age: 20
    ```
 
-### Exiting
+<!-- ### Exiting
 
-Select option `3` to exit the program.
+Select option `3` to exit the program. -->
